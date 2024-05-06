@@ -1,1 +1,6 @@
 # Python-Analyse-PNL-des-avis-sur-les-restaurants
+
+
+Le traitement du langage naturel (NLP) est un domaine de l'informatique et de l'intelligence artificielle concerné par les interactions entre les ordinateurs et les langues humaines (naturelles), en particulier la manière de programmer des ordinateurs pour traiter et analyser de grandes quantités de données en langage naturel. Il s'agit de la branche de l'apprentissage automatique qui consiste à analyser n'importe quel texte et à gérer l'analyse prédictive. Scikit-learn est une bibliothèque logicielle gratuite d'apprentissage automatique pour le langage de programmation Python. Scikit-learn est en grande partie écrit en Python, avec certains algorithmes de base écrits en Cython pour obtenir des performances. Cython est un sur-ensemble du langage de programmation Python, conçu pour offrir des performances de type C avec du code écrit principalement en Python. Comprenons les différentes étapes impliquées dans le traitement de texte et le flux du PNL. 
+
+Cet algorithme peut être facilement appliqué à tout autre type de texte, comme classer un livre en Romance, Friction, mais pour l'instant, utilisons un ensemble de données d'avis de restaurant pour examiner les commentaires négatifs ou positifs.
